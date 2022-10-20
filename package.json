@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jagi113/API_fetch_json/issues"
   },
-  "homepage": "https://github.com/jagi113/API_fetch_json#readme"
+  "homepage": "https://github.com/jagi113/API_fetch_json#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
 }
